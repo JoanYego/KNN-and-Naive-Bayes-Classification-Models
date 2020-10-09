@@ -5,13 +5,13 @@ This repository demonstrates supervised machine learning concepts. More specific
 
 # Project Description
 
-# KNN Classification Model
+# 1) KNN Classification Model
 
 This analysis aims to develop a prediction model to determine whether or not a passenger would survive on the titanic. The Titanic was a British passenger liner that sank in the North Atlantic ocean in April 15, 1912 after hitting an iceberg while on transit. The ship's sinking was on the deadliest accidents in which more than 1,500 passengers died out of estimated 2,224 passengers and crew members aboard the ship. The incident has remained to be one of the most talked about history points with several movies and books being developed to tell the story. The project uses K-Nearest Neighbors Classifier to build the prediction model. 
 
 The dataset used to train the model was sourced online and contains relevant information for the prediction model. Some of the attributes in the dataset include passenger id, age, gender, name and whether they survived or not. The total numnber of attributes are 12 while the number of records 891. An additional 418 records were available but could not be used in the analysis since the target variable was missing for those records.
 
-# Naive Bayes Classification Model
+# 2) Naive Bayes Classification Model
 
 For this analysis, the goal is to develop a classification model that will categorize an email as either spam or not spam. Spam emails are unwanted digital communication or messages that get sent mostly in bulk. In the current digital age where most communication, both professional and personal, occurs through digital platforms, it is imperative that unsolicited messages are detected since they are essentially a waste to time and resources. The analysis uses a Naive Bayes Classifier to build a prediction model that will categorize emails as either spam or not spam. Later on, the model is optimized to ensure a high prediction accuracy.
 
