@@ -15,7 +15,7 @@ Various Python Libraries
 
 # Usage
 
-This project demonstrates how supervised machine learning techniques (specifically KNN and Naive Bayes) can be applied in real world problems and business use cases
+This project demonstrates how supervised machine learning techniques (specifically KNN) can be applied in a data science project.
 
 # Contributors
 
